@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Doma_Umaru_Java_Script_The_Good_Parts](https://user-images.githubusercontent.com/7036770/125184934-5150d100-e23f-11eb-813a-4c062f43a8fc.png)
+
 <!--
 **amithm7/amithm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
