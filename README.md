@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"><img src="https://user-images.githubusercontent.com/7036770/125184934-5150d100-e23f-11eb-813a-4c062f43a8fc.png" alt="Doma_Umaru_Java_Script_The_Good_Parts" width="500" /></div>
+<div align="center"><a href="https://amo.fyi" target="_blank"><img src="https://user-images.githubusercontent.com/7036770/125184934-5150d100-e23f-11eb-813a-4c062f43a8fc.png" alt="Doma_Umaru_Java_Script_The_Good_Parts" width="300" /></a></div>
 
 ### Notable works:
 
